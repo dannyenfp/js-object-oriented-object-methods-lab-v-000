@@ -1,5 +1,5 @@
 function BoardMember(name, homeState, training) {
-  this.veto: function(){
+  this.veto = function(){
     return 'No, I must disagree';
   approve: 
 }
